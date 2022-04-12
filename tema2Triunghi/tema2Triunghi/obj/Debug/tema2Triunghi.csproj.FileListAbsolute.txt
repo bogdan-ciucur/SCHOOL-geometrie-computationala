@@ -1,0 +1,11 @@
+C:\Users\bogdi\Desktop\c#\tema2Triunghi\tema2Triunghi\bin\Debug\tema2Triunghi.exe.config
+C:\Users\bogdi\Desktop\c#\tema2Triunghi\tema2Triunghi\bin\Debug\tema2Triunghi.exe
+C:\Users\bogdi\Desktop\c#\tema2Triunghi\tema2Triunghi\bin\Debug\tema2Triunghi.pdb
+C:\Users\bogdi\Desktop\c#\tema2Triunghi\tema2Triunghi\obj\Debug\tema2Triunghi.csproj.AssemblyReference.cache
+C:\Users\bogdi\Desktop\c#\tema2Triunghi\tema2Triunghi\obj\Debug\tema2Triunghi.csproj.SuggestedBindingRedirects.cache
+C:\Users\bogdi\Desktop\c#\tema2Triunghi\tema2Triunghi\obj\Debug\tema2Triunghi.Properties.Resources.resources
+C:\Users\bogdi\Desktop\c#\tema2Triunghi\tema2Triunghi\obj\Debug\tema2Triunghi.csproj.GenerateResource.cache
+C:\Users\bogdi\Desktop\c#\tema2Triunghi\tema2Triunghi\obj\Debug\tema2Triunghi.csproj.CoreCompileInputs.cache
+C:\Users\bogdi\Desktop\c#\tema2Triunghi\tema2Triunghi\obj\Debug\tema2Triunghi.exe
+C:\Users\bogdi\Desktop\c#\tema2Triunghi\tema2Triunghi\obj\Debug\tema2Triunghi.pdb
+C:\Users\bogdi\Desktop\c#\tema2Triunghi\tema2Triunghi\obj\Debug\tema2Triunghi.Form1.resources
