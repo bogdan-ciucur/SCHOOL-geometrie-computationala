@@ -1,0 +1,10 @@
+C:\Users\bogdan\Desktop\geometrieComputationala\SCHOOL-geometrie-computationala\tema3Cerc\tema3Cerc\bin\Debug\tema3Cerc.exe.config
+C:\Users\bogdan\Desktop\geometrieComputationala\SCHOOL-geometrie-computationala\tema3Cerc\tema3Cerc\bin\Debug\tema3Cerc.exe
+C:\Users\bogdan\Desktop\geometrieComputationala\SCHOOL-geometrie-computationala\tema3Cerc\tema3Cerc\bin\Debug\tema3Cerc.pdb
+C:\Users\bogdan\Desktop\geometrieComputationala\SCHOOL-geometrie-computationala\tema3Cerc\tema3Cerc\obj\Debug\tema3Cerc.csproj.AssemblyReference.cache
+C:\Users\bogdan\Desktop\geometrieComputationala\SCHOOL-geometrie-computationala\tema3Cerc\tema3Cerc\obj\Debug\tema3Cerc.csproj.SuggestedBindingRedirects.cache
+C:\Users\bogdan\Desktop\geometrieComputationala\SCHOOL-geometrie-computationala\tema3Cerc\tema3Cerc\obj\Debug\tema3Cerc.Properties.Resources.resources
+C:\Users\bogdan\Desktop\geometrieComputationala\SCHOOL-geometrie-computationala\tema3Cerc\tema3Cerc\obj\Debug\tema3Cerc.csproj.GenerateResource.cache
+C:\Users\bogdan\Desktop\geometrieComputationala\SCHOOL-geometrie-computationala\tema3Cerc\tema3Cerc\obj\Debug\tema3Cerc.csproj.CoreCompileInputs.cache
+C:\Users\bogdan\Desktop\geometrieComputationala\SCHOOL-geometrie-computationala\tema3Cerc\tema3Cerc\obj\Debug\tema3Cerc.exe
+C:\Users\bogdan\Desktop\geometrieComputationala\SCHOOL-geometrie-computationala\tema3Cerc\tema3Cerc\obj\Debug\tema3Cerc.pdb
