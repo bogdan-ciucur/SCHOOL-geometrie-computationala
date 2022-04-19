@@ -1,0 +1,11 @@
+C:\Users\bogdan\Desktop\geometrieComputationala\SCHOOL-geometrie-computationala\tema5Jarvis\tema5Jarvis\bin\Debug\tema5Jarvis.exe.config
+C:\Users\bogdan\Desktop\geometrieComputationala\SCHOOL-geometrie-computationala\tema5Jarvis\tema5Jarvis\bin\Debug\tema5Jarvis.exe
+C:\Users\bogdan\Desktop\geometrieComputationala\SCHOOL-geometrie-computationala\tema5Jarvis\tema5Jarvis\bin\Debug\tema5Jarvis.pdb
+C:\Users\bogdan\Desktop\geometrieComputationala\SCHOOL-geometrie-computationala\tema5Jarvis\tema5Jarvis\obj\Debug\tema5Jarvis.csproj.AssemblyReference.cache
+C:\Users\bogdan\Desktop\geometrieComputationala\SCHOOL-geometrie-computationala\tema5Jarvis\tema5Jarvis\obj\Debug\tema5Jarvis.csproj.SuggestedBindingRedirects.cache
+C:\Users\bogdan\Desktop\geometrieComputationala\SCHOOL-geometrie-computationala\tema5Jarvis\tema5Jarvis\obj\Debug\tema5Jarvis.Properties.Resources.resources
+C:\Users\bogdan\Desktop\geometrieComputationala\SCHOOL-geometrie-computationala\tema5Jarvis\tema5Jarvis\obj\Debug\tema5Jarvis.csproj.GenerateResource.cache
+C:\Users\bogdan\Desktop\geometrieComputationala\SCHOOL-geometrie-computationala\tema5Jarvis\tema5Jarvis\obj\Debug\tema5Jarvis.csproj.CoreCompileInputs.cache
+C:\Users\bogdan\Desktop\geometrieComputationala\SCHOOL-geometrie-computationala\tema5Jarvis\tema5Jarvis\obj\Debug\tema5Jarvis.exe
+C:\Users\bogdan\Desktop\geometrieComputationala\SCHOOL-geometrie-computationala\tema5Jarvis\tema5Jarvis\obj\Debug\tema5Jarvis.pdb
+C:\Users\bogdan\Desktop\geometrieComputationala\SCHOOL-geometrie-computationala\tema5Jarvis\tema5Jarvis\obj\Debug\tema5Jarvis.Form1.resources
