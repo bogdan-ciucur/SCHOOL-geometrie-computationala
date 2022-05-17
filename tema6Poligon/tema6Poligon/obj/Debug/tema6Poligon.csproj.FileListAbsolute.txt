@@ -9,3 +9,14 @@ C:\Users\bogdan\Desktop\geometrieComputationala\SCHOOL-geometrie-computationala\
 C:\Users\bogdan\Desktop\geometrieComputationala\SCHOOL-geometrie-computationala\tema6Poligon\tema6Poligon\obj\Debug\tema6Poligon.exe
 C:\Users\bogdan\Desktop\geometrieComputationala\SCHOOL-geometrie-computationala\tema6Poligon\tema6Poligon\obj\Debug\tema6Poligon.pdb
 C:\Users\bogdan\Desktop\geometrieComputationala\SCHOOL-geometrie-computationala\tema6Poligon\tema6Poligon\obj\Debug\tema6Poligon.Form1.resources
+C:\Users\bogdi\Desktop\geometrieComputationala\tema6Poligon\tema6Poligon\bin\Debug\tema6Poligon.exe.config
+C:\Users\bogdi\Desktop\geometrieComputationala\tema6Poligon\tema6Poligon\bin\Debug\tema6Poligon.exe
+C:\Users\bogdi\Desktop\geometrieComputationala\tema6Poligon\tema6Poligon\bin\Debug\tema6Poligon.pdb
+C:\Users\bogdi\Desktop\geometrieComputationala\tema6Poligon\tema6Poligon\obj\Debug\tema6Poligon.csproj.AssemblyReference.cache
+C:\Users\bogdi\Desktop\geometrieComputationala\tema6Poligon\tema6Poligon\obj\Debug\tema6Poligon.csproj.SuggestedBindingRedirects.cache
+C:\Users\bogdi\Desktop\geometrieComputationala\tema6Poligon\tema6Poligon\obj\Debug\tema6Poligon.Form1.resources
+C:\Users\bogdi\Desktop\geometrieComputationala\tema6Poligon\tema6Poligon\obj\Debug\tema6Poligon.Properties.Resources.resources
+C:\Users\bogdi\Desktop\geometrieComputationala\tema6Poligon\tema6Poligon\obj\Debug\tema6Poligon.csproj.GenerateResource.cache
+C:\Users\bogdi\Desktop\geometrieComputationala\tema6Poligon\tema6Poligon\obj\Debug\tema6Poligon.csproj.CoreCompileInputs.cache
+C:\Users\bogdi\Desktop\geometrieComputationala\tema6Poligon\tema6Poligon\obj\Debug\tema6Poligon.exe
+C:\Users\bogdi\Desktop\geometrieComputationala\tema6Poligon\tema6Poligon\obj\Debug\tema6Poligon.pdb

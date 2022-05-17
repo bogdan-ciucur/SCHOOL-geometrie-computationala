@@ -23,7 +23,6 @@ namespace tema3Cerc
         {
             // throw new System.NotImplementedException();
 
-            Graphics g = e.Graphics;
             var pen = new Pen(Color.Black);
             
             
@@ -40,7 +39,7 @@ namespace tema3Cerc
                 pcts.Add(pct);
             }
             
-            
+            //se apeleaza mtoda solve
             Solve(e.Graphics, pcts, pen);
         }
         
@@ -59,9 +58,6 @@ namespace tema3Cerc
 
         
         //functia care gaseste cercul cel mai mic
-        
-        
-        
         public Tuple<Point, float> GetSmallestEnclosingCircle(List<Point> points)
         {
             

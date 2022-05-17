@@ -35,7 +35,6 @@ namespace tema5Jarvis
                 pcts[i] = pct;
             }
 
-            // convexHull(pcts, pcts.Length);
 
             var hullPoints = convexHull(pcts, pcts.Length);
             
@@ -56,7 +55,6 @@ namespace tema5Jarvis
 
         public static List<Point> convexHull(Point[] points, int n)
         {
-            // There must be at least 3 points
             if (n <= 3)
             {
                 return points.ToList();
@@ -83,26 +81,17 @@ namespace tema5Jarvis
                 // Search for a point 'q' such that
                 // orientation(p, q, x) is counterclockwise
                 // for all points 'x'. The idea is to keep
-                // track of last visited most counterclock-
-                // wise point in q. If any point 'i' is more
-                // counterclock-wise than q, then update q.
                 q = (p + 1) % n;
 
                 for (int i = 0; i < n; i++)
                 {
-                    // If i is more counterclockwise than
-                    // current q, then update q
                     if (orientation(points[p], points[i], points[q]) == 2)
                         q = i;
                 }
 
-                // Now q is the most counterclockwise with
-                // respect to p. Set p as q for next iteration,
-                // so that q is added to result 'hull'
                 p = q;
 
-            } while (p != left); // While we don't come to first
-            // point
+            } while (p != left); 
 
             return hull;
         }

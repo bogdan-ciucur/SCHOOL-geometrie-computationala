@@ -1,0 +1,11 @@
+C:\Users\bogdi\Desktop\c#\tema7Triangulare\tema7Triangulare\obj\Debug\tema7Triangulare.csproj.AssemblyReference.cache
+C:\Users\bogdi\Desktop\c#\tema7Triangulare\tema7Triangulare\obj\Debug\tema7Triangulare.csproj.SuggestedBindingRedirects.cache
+C:\Users\bogdi\Desktop\c#\tema7Triangulare\tema7Triangulare\obj\Debug\tema7Triangulare.Properties.Resources.resources
+C:\Users\bogdi\Desktop\c#\tema7Triangulare\tema7Triangulare\obj\Debug\tema7Triangulare.csproj.GenerateResource.cache
+C:\Users\bogdi\Desktop\c#\tema7Triangulare\tema7Triangulare\obj\Debug\tema7Triangulare.csproj.CoreCompileInputs.cache
+C:\Users\bogdi\Desktop\c#\tema7Triangulare\tema7Triangulare\bin\Debug\tema7Triangulare.exe.config
+C:\Users\bogdi\Desktop\c#\tema7Triangulare\tema7Triangulare\bin\Debug\tema7Triangulare.exe
+C:\Users\bogdi\Desktop\c#\tema7Triangulare\tema7Triangulare\bin\Debug\tema7Triangulare.pdb
+C:\Users\bogdi\Desktop\c#\tema7Triangulare\tema7Triangulare\obj\Debug\tema7Triangulare.exe
+C:\Users\bogdi\Desktop\c#\tema7Triangulare\tema7Triangulare\obj\Debug\tema7Triangulare.pdb
+C:\Users\bogdi\Desktop\c#\tema7Triangulare\tema7Triangulare\obj\Debug\tema7Triangulare.Form1.resources

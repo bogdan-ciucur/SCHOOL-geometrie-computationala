@@ -39,6 +39,19 @@ namespace tema6Poligon
                 e.Graphics.DrawEllipse(Pens.Black, p.X, p.Y, 1, 1);
             }
 
+            
+            
+            //triangularea
+            
+            for (int i = 2; i < Points.Count-1; i++)
+            {
+                e.Graphics.DrawLine(pen2, Points[0], Points[i]);
+            }
+            
+            
+            
+            
+
         }
 
         
@@ -130,6 +143,7 @@ namespace tema6Poligon
         
         
         private static readonly Pen pen = new Pen(Color.Black, 1);
+        private static readonly Pen pen2 = new Pen(Color.Red, 1);
 
         private static readonly List<Point> PointList = new List<Point>();
 
